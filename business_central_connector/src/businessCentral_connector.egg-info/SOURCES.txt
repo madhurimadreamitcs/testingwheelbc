@@ -1,0 +1,10 @@
+setup.py
+src/businessCentral_connector.egg-info/PKG-INFO
+src/businessCentral_connector.egg-info/SOURCES.txt
+src/businessCentral_connector.egg-info/dependency_links.txt
+src/businessCentral_connector.egg-info/requires.txt
+src/businessCentral_connector.egg-info/top_level.txt
+src/business_central_connector/__init__.py
+src/business_central_connector/br_ingestion_BusinessCentral.py
+src/business_central_connector/br_to_sil_BusinessCentral.py
+src/business_central_connector/config_BusinessCentral.py
